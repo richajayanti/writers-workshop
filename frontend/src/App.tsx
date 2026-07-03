@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-50 flex items-center justify-center">
       <div className="bg-white rounded-lg shadow p-8 max-w-sm w-full">
-        <h1 className="text-2xl font-bold text-gray-900 mb-4">Throughline</h1>
+        <h1 className="text-2xl font-bold text-gray-900 mb-4">Writer's Workshop</h1>
         {error && <p className="text-red-600 text-sm">Error: {error}</p>}
         {health ? (
           <div>

@@ -1,4 +1,4 @@
-# Throughline — Design Spec
+# Writer's Workshop — Design Spec
 
 A research companion for writing. You dump a messy idea for a piece you want to write,
 it breaks the idea into angles, curates a reading list per angle, and quizzes you on each

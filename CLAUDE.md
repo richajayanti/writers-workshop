@@ -1,9 +1,9 @@
-# Throughline
+# Writer's Workshop
 
 A research companion for writing. The user dumps a messy idea for a piece they want to write;
 the app breaks it into angles, curates a reading list per angle, and quizzes the user on each
 article so they absorb the sources before writing. Full concept + data model + API contract
-live in `docs/throughline-design-spec.md` — read it before starting work.
+live in `docs/writers-workshop-design-spec.md` — read it before starting work.
 
 ## Learning mode — read this first
 
@@ -32,7 +32,7 @@ This is a learning project. The two goals are (1) the user becoming fluent in Ty
 /
 ├── CLAUDE.md
 ├── README.md
-├── docs/throughline-design-spec.md
+├── docs/writers-workshop-design-spec.md
 ├── backend/      # FastAPI app, SQLAlchemy models, agents
 └── frontend/     # Vite + React + TS + Tailwind
 ```
